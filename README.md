@@ -77,6 +77,5 @@ Every line of code is a step forward 💥
 
 ---
 
-Thanks for scrolling through my README!  
+Thanks for scrolling through my readme!  
 I’m here to learn, grow, and code. Let's keep going 💪
-
