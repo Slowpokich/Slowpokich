@@ -45,10 +45,10 @@ Everything I build helps me level up and understand the web better.
 
 <p align="center">
   <a href="https://t.me/Wonty33" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%40Wonty33-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-%40Slowpokich1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://discordapp.com/users/wailur" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-wailur-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-slowpokich-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/Slowpokich" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Slowpokich-181717?style=for-the-badge&logo=github&logoColor=white" />
