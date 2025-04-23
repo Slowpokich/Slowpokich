@@ -18,7 +18,7 @@ I'm currently learning and building projects using:
 - ⚙️ **JavaScript** – Adding interactivity
 - 🐍 **Python** – Exploring logic and backend tools
 
-I work daily in **Visual Studio Code** and I’m always digging into new tutorials, docs, and community tips.
+I work daily in and I’m always digging into new tutorials, docs, and community tips.
 
 ---
 
