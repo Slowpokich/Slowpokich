@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Slowpokich</h1>
+<h1 align="center">👋 Hi, I'm Crydere</h1>
 <h3 align="center">💻 Aspiring Web Developer | 🧠 Self-Learner | 🚀 Building Skills Day by Day</h3>
 
 <p align="center">
